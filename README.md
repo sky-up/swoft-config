@@ -16,7 +16,7 @@ Swoft Config Component
 - composer command
 
 ```bash
-composer require swoft/config
+composer require swoft-fork/config
 ```
 
 ## Resources
